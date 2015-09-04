@@ -1,0 +1,24 @@
+{
+  "name": "tobymaxham/tokener",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "TobyMaxham",
+      "email": "git2015@maxham.de"
+    }
+  ],
+  "homepage": "http://maxham.de",
+  "support": {
+    "issues": "https://github.com/TobyMaxham/tokener/issues",
+    "source": "https://github.com/TobyMaxham/tokener"
+  },
+  "require": {
+    "php": ">=5.5.9"
+  },
+  "autoload": {
+    "psr-4": {
+      "TobyMaxham\\Tokener\\": "src"
+    }
+  },
+  "minimum-stability": "dev"
+}
