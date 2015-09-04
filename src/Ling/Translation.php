@@ -3,11 +3,11 @@
 namespace TobyMaxham\Tokener\Ling;
 
 /**
- * Class Genus
+ * Class Translation
  * @package TobyMaxham\Tokener\Ling
  * @author Tobias Maxham <git2015@maxham.de>
  */
-class Genus extends Builder
+class Translation extends Builder
 {
 
 }
