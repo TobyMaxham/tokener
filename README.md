@@ -10,3 +10,10 @@ composer install tobymaxham/tokener
 ```
 
 Update your source. 
+
+
+## Usage 
+
+```php
+$rendered = new Tokener(new FileSource('file.php'));
+```
