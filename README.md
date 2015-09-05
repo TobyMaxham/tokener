@@ -16,4 +16,5 @@ Update your source.
 
 ```php
 $rendered = new Tokener(new FileSource('file.php'));
+$rendered->startLin();
 ```
